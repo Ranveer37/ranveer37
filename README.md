@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- Ranveer Yadav GitHub Profile README -->
 
-<!--
-**Ranveer37/ranveer37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ranveer Yadav</h1>
+<h3 align="center">Frontend Developer | B.Tech CSE (AI & ML) | Passionate about Clean UI & Smart Web Apps</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🎓 **B.Tech CSE (AI & ML)** student (Batch 2021–2025) at *Krishna Engineering College*  
+- 💼 Completed a **Frontend Development Internship**, gaining hands-on experience in building responsive and interactive UIs  
+- 💻 Passionate about creating **modern, user-friendly web applications** using JavaScript and its frameworks  
+- 🌱 Currently deepening my knowledge of **JavaScript**, **React.js**, and **SQL**  
+- 🚀 Working on a project: *Online Food Ordering System* (HTML, CSS, JS, SQL)  
+- 🏍️ Also building a **WordPress website** about *motorbike and racing car parts*  
+- ⚡ Fun fact: I love coding, motorsports, and designing modern UI components!  
+
+---
+
+### 🛠️ Tech Stack
+#### 💻 Frontend
+HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS • Bootstrap  
+#### 🗄️ Backend / Database
+Node.js • Express.js • SQL (MySQL / SQLite)  
+#### 🧠 Other Tools & Skills
+Git • GitHub • WordPress • Python • R • GIS • Satellite Image Processing  
+
+---
+
+### 🚀 Featured Projects
+
+#### 🍔 Online Food Ordering System
+> A web-based platform that allows users to browse menus, place orders, and manage restaurants efficiently.  
+**Tech Used:** HTML, CSS, JavaScript, SQL  
+🔗 [View Repository](https://github.com/Ranveer37/Online-Food-Ordering-System)
+
+#### 🧠 Emotion-Based Music Recommender
+> A project that recommends music based on a user’s detected emotion using ML models.  
+**Tech Used:** Python, Machine Learning, Data Processing  
+🔗 [View Repository](https://github.com/Ranveer37/Emotion-Music-Recommender)
+
+#### ✅ To-Do List Web App
+> A simple and elegant To-Do List made using vanilla JS to manage daily tasks.  
+**Tech Used:** HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/Ranveer37/To-Do-List)
+
+#### 🌐 Portfolio Website
+> My personal portfolio website to showcase projects, skills, and achievements.  
+**Tech Used:** HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/Ranveer37/Portfolio-Website)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer37&show_icons=true&theme=radical" alt="Ranveer37's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranveer37&theme=radical" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranveer37&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Advanced JavaScript (Objects, Prototypes, Closures)  
+- React.js & Next.js for dynamic web apps  
+- TypeScript and RESTful APIs  
+- UI/UX design fundamentals  
+
+---
+
+### 📫 How to Reach Me
+📧 Email: **your.email@example.com**  
+💼 LinkedIn: [linkedin.com/in/ranveeryadav](#)  
+🌐 Portfolio: *Coming Soon...*  
+
+---
+
+### 💬 Quote I Follow
+> “First, solve the problem. Then, write the code.” – John Johnson  
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p>
