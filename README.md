@@ -29,10 +29,15 @@ Git • GitHub • WordPress • Python • R • GIS • Satellite Image Proces
 ### 🚀 Featured Projects
 
 
-#### ✅ To-Do List Web App
-> A simple and elegant To-Do List made using vanilla JS to manage daily tasks.  
-**Tech Used:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/Ranveer37/To-Do-List)
+## 📝 To-Do List Project  
+A simple and interactive To-Do List web app built using **HTML, CSS, and JavaScript**.  
+- Add, delete, and mark tasks as complete  
+- Stores your tasks in localStorage  
+- Clean and minimal UI  
+
+🔗 **Live Demo:** [View Project](https://ranveer37.github.io/Todo-List/)  
+💻 **Source Code:** [GitHub Repository](https://github.com/Ranveer37/Todo-List)
+
 
 #### 🌐 Portfolio Website
 > My personal portfolio website to showcase projects, skills, and achievements.  
