@@ -28,15 +28,6 @@ Git • GitHub • WordPress • Python • R • GIS • Satellite Image Proces
 
 ### 🚀 Featured Projects
 
-#### 🍔 Online Food Ordering System
-> A web-based platform that allows users to browse menus, place orders, and manage restaurants efficiently.  
-**Tech Used:** HTML, CSS, JavaScript, SQL  
-🔗 [View Repository](https://github.com/Ranveer37/Online-Food-Ordering-System)
-
-#### 🧠 Emotion-Based Music Recommender
-> A project that recommends music based on a user’s detected emotion using ML models.  
-**Tech Used:** Python, Machine Learning, Data Processing  
-🔗 [View Repository](https://github.com/Ranveer37/Emotion-Music-Recommender)
 
 #### ✅ To-Do List Web App
 > A simple and elegant To-Do List made using vanilla JS to manage daily tasks.  
