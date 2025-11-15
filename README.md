@@ -35,7 +35,7 @@ A simple and interactive To-Do List web app built using **HTML, CSS, and JavaScr
 - Stores your tasks in localStorage  
 - Clean and minimal UI  
 
-🔗 **Live Demo:** [View Project](https://ranveer37.github.io/Todo-List/)  
+🔗 **Live Demo:** [View Project] https://ranveer37.github.io/ToDo-list/
 💻 **Source Code:** [GitHub Repository](https://github.com/Ranveer37/Todo-List)
 
 
