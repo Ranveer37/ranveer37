@@ -48,6 +48,16 @@ Generates strong, random passwords based on user preferences.
 📂 **Repository:** [View Code](https://github.com/Ranveer37/Password-generator-system)
 
 
+### 🌦 Mausam - Weather App
+
+A simple and interactive **Weather Application** built using **HTML, CSS, and JavaScript**.  
+Shows **current weather, temperature, min-max, humidity, wind speed**, and more using the **OpenWeather API**.  
+Modern **glassmorphism UI** with blur and shadow effects. Fully **responsive** for desktop and mobile.
+
+🔗 **Live Demo:** [Click Here](https://Ranveer37.github.io/Mausam/)  
+📂 **Repository:** [View Code](https://github.com/Ranveer37/Mausam)
+
+
 
 #### 🌐 Portfolio Website
 > My personal portfolio website to showcase projects, skills, and achievements.  
