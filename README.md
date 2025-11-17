@@ -36,7 +36,17 @@ A simple and interactive To-Do List web app built using **HTML, CSS, and JavaScr
 - Clean and minimal UI  
 
 🔗 **Live Demo:** [View Project] https://ranveer37.github.io/ToDo-list/
-💻 **Source Code:** [GitHub Repository](https://github.com/Ranveer37/Todo-List)
+💻 **Source Code:** [GitHub Repository](https://github.com/Ranveer37/Todo-List) 
+
+
+### 🔐 Password Generator System
+
+A simple password generator built using HTML, CSS, and JavaScript.  
+Generates strong, random passwords based on user preferences.
+
+🔗 **Live Demo:** [Click Here](https://ranveer37.github.io/Password-generator-system/)  
+📂 **Repository:** [View Code](https://github.com/Ranveer37/Password-generator-system)
+
 
 
 #### 🌐 Portfolio Website
